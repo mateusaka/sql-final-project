@@ -1,0 +1,3 @@
+-- SQLite
+
+SELECT COUNT(*) FROM LOCATIONS;
